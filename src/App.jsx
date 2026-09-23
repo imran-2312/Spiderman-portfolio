@@ -70,7 +70,7 @@ function App() {
         <div className="hero-content">
 
           <p className="small-title">
-            Welcome To My Spidy World
+            Welcome To My Spidey World
           </p>
 
           <h1>
